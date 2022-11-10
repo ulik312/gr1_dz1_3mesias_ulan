@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gr1_dz1_3mesias_ulan</string>
+    <string name="email">Введите ваш email</string>
+    <string name="theme">тема</string>
+    <string name="tex">Введите текст</string>
+    <string name="send">SEND</string>
+</resources>
